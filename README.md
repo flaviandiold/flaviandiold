@@ -12,7 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/flaviandiold](https://github.com/flaviandiold)
 
-
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviandiold&show_icons=true&locale=en&layout=compact" alt="flaviandiold" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviandiold&show_icons=true&locale=en" alt="flaviandiold" /></p>
