@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/flaviandiold" target="blank"><img src="https://img.shields.io/twitter/follow/flaviandiold?logo=twitter&style=for-the-badge" alt="flaviandiold" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently learning **Java**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 My fields of interest are **Machine Learning** and **Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flaviandiold](https://github.com/flaviandiold)
 
