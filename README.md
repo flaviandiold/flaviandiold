@@ -6,9 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/flaviandiold" target="blank"><img src="https://img.shields.io/twitter/follow/flaviandiold?logo=twitter&style=for-the-badge" alt="flaviandiold" /></a> </p>
 
-- 🔭 I’m currently learning **Spring Boot**
+- 🔭 Learning **Distributed Systems**
 
-- 🌱 My fields of interest are **Machine Learning** and **Quantum Computing**
+- 🎖️ Expertise in **SpringBoot**, **PostgreSQL**, **Docker**, **NestJS** and **Redis**
+
+- 🎯 Knowledge in **Container Orchestration**, **OpenSearch**, **Jenkins** and **System Design**
+
+- 🌱 Fields of interest are **Machine Learning** and **Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flaviandiold](https://github.com/flaviandiold)
 
