@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviandiold&label=Profile%20views&color=0e75b6&style=flat" alt="flaviandiold" /> </p>
 
-<p align="left"> <a href="https://twitter.com/flaviandiold" target="blank"><img src="https://img.shields.io/twitter/follow/flaviandiold?logo=twitter&style=for-the-badge" alt="flaviandiold" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/flavian-diol-d-357829225/" target="blank"><img src="https://img.shields.io/twitter/follow/flaviandiold?logo=twitter&style=for-the-badge" alt="flaviandiold" /></a> </p>
 
 - 🔭 Learning **Distributed Systems**
 
